@@ -17,7 +17,7 @@ let cezarolismi = message.guild.roles.cache.get(cezarolu)
 moment.locale("tr")
 let oziemb = new Discord.MessageEmbed()
     .setAuthor(guild.name, guild.iconURL({dynamic: true}))
-    .setFooter("Ozzy ❤️ Serendia", executor.user.displayAvatarURL({dynamic: true}))
+    .setFooter("Eromes ❤️ 1427", executor.user.displayAvatarURL({dynamic: true}))
     .setTimestamp()
 
 //ifler gelsin ifler
