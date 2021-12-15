@@ -5,7 +5,7 @@ module.exports = () => {
     //Ozzy's ready
     console.log(`[${moment().format('YYYY-MM-DD HH:mm:ss')}] Ozzy's V12 Register: Aktif, Komutlar ve Events Dosyası Yüklendi!`);
     console.log(`[${moment().format('YYYY-MM-DD HH:mm:ss')}] Client Username: ${client.user.username} ile giriş yapıldı!`);
-    client.user.setPresence({ activity: { name: `Ozzy ❤️ Serendia` , type: "PLAYING"}, status: 'dnd' })
+    client.user.setPresence({ activity: { name: `Eromes ❤️ 1427` , type: "PLAYING"}, status: 'dnd' })
             .then(console.log)
             .catch(console.error); 
 }
