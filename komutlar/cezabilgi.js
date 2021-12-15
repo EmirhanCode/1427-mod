@@ -13,7 +13,7 @@ moment.locale("tr")
 //Embed açalım bitane
 let oziemb = new Discord.MessageEmbed()
     .setAuthor(guild.name, guild.iconURL({dynamic: true}))
-    .setFooter("Ozzy ❤️ Serendia", executor.user.displayAvatarURL({dynamic: true}))
+    .setFooter("Eromes ❤️ 1427", executor.user.displayAvatarURL({dynamic: true}))
     .setTimestamp()
 console.log(args[2])
 //Gerekli Rol İdleri buraya
