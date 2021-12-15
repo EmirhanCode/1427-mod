@@ -1,14 +1,14 @@
 {
-"sahip": ["sahipid1","isteğebaglısahipid2istersenizsilin"], 
-"token": "tokeniniz",
-"prefix": "prefix",
-"boosterrolu": "rolid",
-"banhammer": "rolid",
-"jailhammer": "rolid",
-"mutehammer": "rolid",
-"yetkili": "rolid",
-"cezalog": "kanalid",
-"jailrolu": "rolid",
-"muterolu": "rolid",
-"unjailverilecekrol": "rolid"
+"sahip": ["914960256231178262","853060818508578838"], 
+"token": "OTIwNzY4Njg2NjU3MjU3NDky.YbpKqQ.KP-VqezhgtOTH2t4gTm1Ru0Qlm8",
+"prefix": ".",
+"boosterrolu": "",
+"banhammer": "920759102752296970",
+"jailhammer": "920759102739722249",
+"mutehammer": "920759102739722248",
+"yetkili": "920759102764875862",
+"cezalog": "920759105105305639",
+"jailrolu": "920759102718763028",
+"muterolu": "920759102718763030" , "920759102718763029",
+"unjailverilecekrol": ""
 }
