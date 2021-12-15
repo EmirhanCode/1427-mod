@@ -11,7 +11,7 @@ let executor = message.member
 //Embed açalım bitane
 let oziemb = new Discord.MessageEmbed()
     .setAuthor(guild.name, guild.iconURL({dynamic: true}))
-    .setFooter("Ozzy ❤️ Serendia", executor.user.displayAvatarURL({dynamic: true}))
+    .setFooter("Eromes ❤️ 1427", executor.user.displayAvatarURL({dynamic: true}))
     .setTimestamp()
 moment.locale("tr")
 //Id girilcek yerler
